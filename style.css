@@ -1,0 +1,87 @@
+body{
+    background: linear-gradient(to bottom left, #0000cc 0%, #eb1515 100%);
+}
+#img{
+    width: 500px;
+    height: 300p;
+    padding: 20px;
+    float: left;
+    
+}
+#img:hover{
+    border: 2px solid black;
+}
+#img1{
+    width: 500px;
+    height: 300p;
+    padding: 20px;
+    float: left;
+    
+}
+#img1:hover{
+    border: 2px solid black;
+
+}
+#img2{
+    width: 400px;
+    height: 200p;
+    padding: 20px;
+    float: right;
+    
+}
+#img2:hover{
+    border: 2px solid black;
+}
+#img3{
+    width: 500px;
+    height: 300p;
+    padding: 20px;
+    float:right;
+    
+}
+#img3:hover{
+    border: 2px solid black;
+}
+#img4{
+    width: 500px;
+    height: 300p;
+    padding: 20px;
+    float: left;
+    
+}
+#img4:hover{
+    border: 2px solid black;
+}
+#img5{
+    width: 500px;
+    height: 300p;
+    padding: 20px;
+    float: left;
+}
+#img5:hover{
+    border: 2px solid black;
+}
+h3{
+    color: white;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h4{
+    color: white;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+span{
+    color: white;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+li{
+    list-style:none;
+}
